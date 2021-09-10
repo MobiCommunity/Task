@@ -20,25 +20,27 @@ Projekt w którym będzie wykonywane zadanie testowe polega na rejestracji urzą
 
 W razie pytań/wątpliwości proszę o kontakt :) 
 
-Zadanie 1.
+### Zadanie 1.
 
 Proszę o dołożenie endpointu służącego do pobrania wszystkich zarejestrowanych urządzeń. Metoda powinna być widoczna w API i pokazywać co rzeczywiście zwraca.
 
-Zadanie 2.
+### Zadanie 2.
 
 Dołożenie obsługi rejestracji mikrofalówek, analogicznie jak przy rejestracji lodówek.
 
-Zadanie 3. 
+### Zadanie 3. 
 
 Modyfikacja zadania 2, tak, aby serwis do generowania seryjnych kodów dla lodówek działał bez zmian, a dla mikrofalówek generował kod seryjny w analogiczny sposób, tylko zamiast SHA - MD5. 
 
-Zadanie 4.
+### Zadanie 4.
 
 Proszę o skonteneryzowanie obydwu aplikacji i uruchomienie ich w kontenerach i zademonstrowanie ich działania.
 Wskazówka: Nowe app settingsy dla uruchamiania w kontenerze.
 
-Zadanie 5. 
+### Zadanie 5. 
 
 Proszę o przygotowanie pliku docker-compose do uruchomienia obydwu kontenerów.
 
-Zadanie 6. Proszę o zmiane sposobu komunikacji pomiędzy serwisami. Z klasycznego Rest api na GRPC.
+### Zadanie 6. 
+  
+Proszę o zmiane sposobu komunikacji pomiędzy serwisami. Z klasycznego Rest api na GRPC.
